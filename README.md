@@ -6,6 +6,12 @@
 - Motivated by my love for coding and problem-solving.
 - I also delved into Java to broaden my skill set.
 
+## Languages
+- Swift
+- java
+- Rust
+- Python
+
 ## Hobbies
 - Coding 👨🏻‍💻
 - Photograph 📸
