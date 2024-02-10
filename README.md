@@ -37,6 +37,22 @@ Archery Scorer is designed for archery enthusiasts to keep track of their scores
     <img src="Image/archery_3.png" width="200"/>
 </p>
 
+### [GPTSwift](https://github.com/ElvisWong213/GPTSwift)
+
+Integrate ChatGPT on Mac and iOS devices, offering a user-friendly interface for easy operation and providing additional customization to fit your needs.
+
+#### Framework Used
+
+| SwiftUI 📱 | SwiftData 💾 | Keychain 🔑 | ChatGPT API 🤖|
+|-----------|------------|------------|-------------|
+
+<p>
+    <img src="Image/GPTSwift_1.png" width="400"/>
+    <img src="Image/GPTSwift_2.png" width="400"/>
+    <img src="Image/GPTSwift_3.png" width="400"/>
+
+</p>
+
 ### [Movie](https://github.com/ElvisWong213/Movie)
 
 This application allows users to explore and discover a vast collection of movies using the TMDB API. With the Movie App, users can stay up-to-date with the latest movie releases, search for their favorite films, explore detailed movie information, access reviews, and delve into the cast and crew details. Additionally, the app provides recommendations for similar movies, enhancing the user's movie-watching experience.
