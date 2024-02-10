@@ -28,6 +28,9 @@ Archery Scorer is designed for archery enthusiasts to keep track of their scores
 | SwiftUI :iphone: | CoreData :floppy_disk: | CloudKit :cloud: | WidgetKit :control_knobs: | Google AdMob :mega: | StoreKit :receipt: |
 |-----------|------------|------------|-------------|----------------|------------|
 
+#### Download
+[![Download_on_the_App_Store_Badge](https://github.com/ElvisWong213/ElvisWong213/assets/40566101/a3e39a79-fe54-4433-b7e1-b327a01b4f81)](https://apps.apple.com/us/app/archery-marker/id1615448672)
+
 <p>
     <img src="Image/archery_1.png" width="200"/>
     <img src="Image/archery_2.png" width="200"/>
@@ -49,9 +52,9 @@ This application allows users to explore and discover a vast collection of movie
     <img src="Image/movie_3.png" width="200"/>
 </p>
 
-### [Calculator](https://github.com/ElvisWong213/Calculator_Swift)
+### [Calcuvate](https://github.com/ElvisWong213/Calcuvate)
 
-This app can perform basic calculations and it can store previous answer  
+The new app Calcuvate efficiently performs mathematical calculations, and offers a user-friendly interface for easy operation.
 
 #### Framework Used
 
@@ -72,6 +75,9 @@ HK Weather is a comprehensive weather app built using SwiftUI. With this app, us
 
 | SwiftUI :iphone: | CoreLocation :round_pushpin: | WidgetKit :control_knobs: | WatchKit :watch: | Networking :globe_with_meridians: |
 |------------------|------------------------------|---------------------------|------------------|-----------------------------------|
+
+#### Download
+[![Download_on_the_App_Store_Badge](https://github.com/ElvisWong213/ElvisWong213/assets/40566101/a3e39a79-fe54-4433-b7e1-b327a01b4f81)](https://apps.apple.com/us/app/hkweather-9days-weather-report/id1603221429)
 
 <p>
     <img src="Image/weather_1.png" width="200"/>
