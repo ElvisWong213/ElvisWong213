@@ -46,6 +46,9 @@ Integrate ChatGPT on Mac and iOS devices, offering a user-friendly interface for
 | SwiftUI 📱 | SwiftData 💾 | Keychain 🔑 | ChatGPT API 🤖|
 |-----------|------------|------------|-------------|
 
+#### Download
+[Download on Gumroad](https://elviswong213.gumroad.com/l/gptswift)
+
 <p>
     <img src="Image/GPTSwift_1.png" width="400"/>
     <img src="Image/GPTSwift_2.png" width="400"/>
