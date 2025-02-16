@@ -19,9 +19,9 @@
 
 ## Projects
 
-### [Archery Scorer](https://github.com/ElvisWong213/Archery-Scorer)
+### [Archery Marker](https://github.com/ElvisWong213/Archery-Scorer)
 
-Archery Scorer is designed for archery enthusiasts to keep track of their scores, analyze their progress, and share their achievements on social media platforms.
+Archery Marker is designed for archery enthusiasts to keep track of their scores, analyze their progress, and share their achievements on social media platforms.
 
 #### Framework Used
 
